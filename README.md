@@ -1,5 +1,6 @@
 # ATM Educational Machine
 
+[About](https://github.com/ShushawnS/ATM-Educational-Machine/edit/main/README.md#about) | [Tech Stack](https://github.com/ShushawnS/ATM-Educational-Machine/edit/main/README.md#tech-stack) | [Visual](https://github.com/ShushawnS/ATM-Educational-Machine/edit/main/README.md#visual)
 ### About 
 This project teaches youth basic banking functionality: deposit, withdrawal and paying a bill. There is also an ability to track and see transactions. With the lack of education at a young age, this program is simple and easy to use. Students are able to understand what each functionality does and the limits of each. 
 
